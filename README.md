@@ -17,6 +17,8 @@ This Tableau dashboard presents a data-driven exploration of employment changes 
   See which cities experienced the fastest employment growth or decline.
 
 - **Total Employment by City (2014)**
+- <img width="503" alt="image" src="https://github.com/user-attachments/assets/b2303cad-6f4f-4325-b3f2-d63251e5508c" />
+
 - 
   Understand the size and scale of each city’s job market.
 
